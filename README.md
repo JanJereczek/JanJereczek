@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @JanJereczek, PhD student at the Universidad Complutense de Madrid (UCM). I am part of the CriticalEarth Innovative Training Network (ITN), aiming to study tipping behaviors in the earth climate system.
-- 👀 I’m interested in climate change with a focus on the cryosphere, dynamical systems and machine learning approches to modelisation.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: janswier@ucm.es
+Hi, I’m Jan, (yet another) PhD student (that make >1h lunch breaks with colleagues) at the Universidad Complutense de Madrid. Besides preparing the revolution in my basement, I am part of the CriticalEarth, an "Innovative Training Network" of our beloved European comission (it sounds ironic, but I mean it, it pays every expense of my luxurious life). You might ask: how innovative are you? The honest answer to this is: I don't know but I am enjoying myself - which is at least equally important.
+
+I’m interested in climate physics and modelling with a focus on the cryosphere and its interactions with the solid Earth. Because I like to confuse myself, I include dynamical systems theory, control theory and machine learning in my work. Sometimes I even program something related to this.
+
+How to reach me: janswier@ucm.es, but it's even nicer if you come around for a tea at my office.
 
 <!---
 JanJereczek/JanJereczek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 💞️ I’m looking to collaborate on ...
+I’m currently learning ...
+
 --->
