@@ -2,7 +2,7 @@ Hi, I’m Jan, (yet another) PhD student (that make >1h lunch breaks with collea
 
 I’m interested in climate physics and modelling with a focus on the cryosphere and its interactions with the solid Earth. Because I like to confuse myself, I include dynamical systems theory, control theory and machine learning in my work. Sometimes I even program something related to this.
 
-I am developping following julia packages:
+With the help of my supervisors and collaborators, I am developping following julia packages:
 - [FastIsostasy.jl](https://github.com/JanJereczek/FastIsostasy.jl), which allows you to compute kiloyears of high-resolution glacial isostatic adjustment within seconds. Even on Earth structures that are laterally variable!
 - [TransitionsInTimeseries](https://github.com/JuliaDynamics/TransitionsInTimeseries.jl), which allows you to forecast/diagnose transitions in a dynamical system (of dimension and co-dimension 1 of course, we don't want to get too crazy). 
 
