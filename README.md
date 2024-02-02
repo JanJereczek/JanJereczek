@@ -1,4 +1,4 @@
-Hi, I’m Jan, a PhD student at the Complutense University of Madrid. Besides preparing the revolution in my basement, I am part of CriticalEarth, an Innovative Training Network of our beloved European comission (it sounds ironic, but I mean it, it pays every expense of my luxurious life). How innovative are we? I don't know but I am enjoying myself - which is at least equally important.
+Hi, I’m Jan, a PhD student at the Complutense University of Madrid. Besides preparing the revolution in my basement, I am part of [CriticalEarth](https://www.criticalearth.eu/), a Marie Sklodowska-Curie Action of our beloved European comission (it sounds ironic, but I mean it, it pays every expense of my luxurious life).
 
 I’m interested in climate physics and modelling with a focus on the cryosphere and its interactions with the solid Earth. Because I like to confuse myself, I include dynamical systems theory, control theory and machine learning in my work. I spend most of my working time programming softwares related to this.
 
