@@ -1,14 +1,17 @@
-Hi, I’m Jan, a PhD student at the Complutense University of Madrid. Besides preparing the revolution in my basement, I study the stability of the Antarctic Ice Sheet within [ClimTip](https://www.climate-tipping-points.eu/), a European initiative that investigates tipping elements of the Earth system.
+Hi, I’m Jan, a Postdoc at the Geoscience Institute of Spain and the Complutense University of Madrid. Besides preparing the revolution in my basement, I study the stability of the Antarctic Ice Sheet and its evolution since the Oligocene. My research is funded by [ClimTip](https://www.climate-tipping-points.eu/) and [Past to Future](https://past2future.org/), which are both European initiatives that investigate the tipping elements of the Earth system.
 
-I’m interested in climate physics and modelling, with a focus on the cryosphere and its interactions with the solid Earth. Because I like to confuse myself, I include dynamical systems, control theory and machine learning in my work. I spend most of my working time programming softwares related to this.
+I’m interested in climate physics and modelling, with a focus on the cryosphere and its interactions with the solid Earth. With the help of my collaborators, I am developping the following Earth System model component:
+- [FastIsostasy.jl](https://github.com/JanJereczek/FastIsostasy.jl): a regional GIA model that can represent laterally-variable solid-Earth structures in a computationally efficient way. This also includes optimized implementations of other regional GIA models that are commonly used in ice-sheet modelling.
+- [FastIsostasy.f90](https://github.com/palma-ice/isostasy): a fortran version of FastIsostasy.jl.
+- [Pagos.jl](https://github.com/fesmc/Pagos.jl): a versatile and performant ice-sheet model (work in progress!).
+- [Tartaros.jl](https://github.com/fesmc/Tartaros.jl): a versatile and performant thermal conduction model of the lithosphere (work in progress!).
+- [Laddie.jl](https://github.com/fesmc/Laddie.jl): a Julia version of LADDIE (work in progress!), an ice-shelf cavity circulation model that was originally written in Python/Fortran.
 
-With the help of my supervisors and collaborators, I am developping following packages:
-- [FastIsostasy.jl](https://github.com/JanJereczek/FastIsostasy.jl), which allows you to compute kiloyears of high-resolution glacial isostatic adjustment within seconds - even on Earth structures that are laterally variable! This also includes optimized implementations of other regional GIA models that are commonly used in ice-sheet modelling.
-- [FastIsostasy.f90](https://github.com/palma-ice/isostasy), which is a fortran version of FastIsostasy.jl.
-- [Pagos.jl](https://github.com/fesmc/Pagos.jl), an ice-sheet model that is still in the initial phase of its development.
-- [TransitionsInTimeseries](https://github.com/JuliaDynamics/TransitionsInTimeseries.jl), which allows you to forecast/diagnose transitions in a dynamical system (of dimension and co-dimension 1 of course, we don't want to get too crazy).
+Furthermore, I am participating in two model intercomparison projects:
+- [GRDMIP](https://github.com/hollyhan/GRDMIP), which aims to compare the GIA response of various models over the last glacial cycle.
+- [ISMIP7](https://www.ismip.org/), which aims to compare the contributions of Antarctica and Greenland to future sea-level rise of various models over the next coming centuries.
 
-I am also participating in [GRDMIP](https://github.com/hollyhan/GRDMIP), a the gravity, rotation and deformation model intercomparison project.
+Some years ago, I also co-ddeveloped [TransitionsInTimeseries](https://github.com/JuliaDynamics/TransitionsInTimeseries.jl), which allows you to forecast/diagnose transitions in a dynamical system (of dimension and co-dimension 1 of course, we don't want to get too crazy).
 
 How to reach me: janswier@ucm.es.
 Homepage: https://janjereczek.github.io/
